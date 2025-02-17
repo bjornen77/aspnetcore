@@ -38,6 +38,5 @@
   "remoteUser": "vscode",
 	"hostRequirements": {
 		"cpus": 4,
-    "memory": "8gb",
 	},
 }
